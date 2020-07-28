@@ -1,1 +1,1 @@
-﻿msgbox "Questo e' il primo script x GitHub"
+﻿msgbox "Questo e' il primo script per GitHub"
