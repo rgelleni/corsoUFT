@@ -24,7 +24,6 @@ Window("Paint").WinObject("Ribbon").Click 177,78 @@ hightlight id_;_263570_;_scr
 Window("Paint").RunAnalog "Track2" @@ hightlight id_;_1376292_;_script infofile_;_ZIP::ssf28.xml_;_
 
 'INSIGHT OBJECT RECORDING
-
 Window("Paint").InsightObject("InsightObject").Click @@ hightlight id_;_3_;_script infofile_;_ZIP::ssf47.xml_;_
 Window("Paint").InsightObject("InsightObject_2").Click @@ hightlight id_;_11_;_script infofile_;_ZIP::ssf48.xml_;_
 Window("Paint").InsightObject("InsightObject_3").Click @@ hightlight id_;_14_;_script infofile_;_ZIP::ssf49.xml_;_
